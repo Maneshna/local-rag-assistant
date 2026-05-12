@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Conda
+.conda/
+
+# VS Code
+.vscode/
+
+# Data
+data/pdfs/
+
+# Vector stores
+vectorstore/
+
+# Models
+*.bin
+*.pt
+
+# OS junk
+.DS_Store
+Thumbs.db
